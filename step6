@@ -33,9 +33,7 @@
 				      <img src="https://files-europe.caagcrm.com/tenants/d5159d97-28df-47d3-9539-6f755d30efd9/files/0f9355ce-c35d-4832-b894-32e263b137b6/redirect/1592332256/timestamp?size=1000">
 				   </div>
 				   <div class="info-wrapper">
-				     <h2>Luxury Car </h2>
-										
-					£39.17				  </div>
+				     <h2>Luxury Car</h2></div>
 				  <div class="button-wrapper">
 				     <div class="car-choice">
 				       <a href="http://cubiclecodes.com/car_rental/reservations/step2" class="rentbutton" style="padding: 8px 0;max-width: 100px;font-size: 13px;"><i class="fa fa-pencil" aria-hidden="true"></i> Change</a> 
@@ -44,20 +42,7 @@
 				</div>
 			 
 		</div>
-	
-		<div class="coverag-listing">
-			<div class="cl-left">
-					<h3> Protections & Coverages</h3>
-			</div>
-					
-				<p class="text-left01"> Fully Comp Insurance</p>
-				<div class="cl-right">
-					<span style="font-size: 14px;"> £69.00 / daily </span>
-				 </div>
-				 
-		</div>
-		
-	
+
 <div class="col-md-3 col-sm-3 col-xs-12 car-rental-summary-container">
    <div class="">
       <div class="box box-open" id="summary">
@@ -69,7 +54,6 @@
          <div class="box-fields">
             <div class="row car-rental-overview">
                <div class="col-md-12 car-rental-reservation-summary-status" style="padding: 0;">
-                  <div class="control-label"><span class="label label-default">Quote</span></div>
                </div>
                <div class="col-md-12 car-rental-summary-pickup" style="padding: 0;">
                   <div class="control-label workflow-summary-title">
@@ -101,36 +85,10 @@
                   <br>
                </div>
             </div>
-			
-            <div class="row car-rental-label-for-website">
-               <div class="col-md-12" style="padding: 0;">
-                  <div class="control-label workflow-summary-title car-rental-summary-vehicle-class">
-                    Luxury Car                  </div>
-               </div>
-            </div>
-            <div class="row car-rental-price-overview">
-               <div class="col-md-12" style="padding: 0;">
-                  <div class="row car-rental-price">
-                     <div class="col-xs-5 no-padding-right car-rental-summary-price-label">
-                        3x Days:
-                     </div>
-                     <div class="col-xs-3 no-padding text-right car-rental-summary-price-unit">
-                       £39.17                   
-                                 
-                     </div>
-                     <div class="col-xs-4 no-padding-left text-right car-rental-summary-price-total">
-                       £117.50         
-                     </div>
-                  </div>
-               </div>
-            </div>
             <hr style="margin-top: 3px;margin-bottom: 3px;">
             <div class="row car-rental-base-price-overview">
                <div class="col-md-12" style="padding: 0;">
                   <div class="row car-rental-base-price">
-                     <div class="col-md-3 col-md-offset-9">
-                        <div class="pull-right normal-font" style="white-space: nowrap;"> £117.50   </div>
-                     </div>
                   </div>
                </div>
             </div>
@@ -138,14 +96,48 @@
            
 			   <div class="col-md-12" style="padding: 0;">
 					<div class="control-label workflow-summary-title">
+                     Your cost                  </div>
+                  <ul class="list-without-styles">
+						  
+                     <li>
+                        <div class="limit-text-by-wrapping-it" title=" RAC Over Seas Cover:" data-original-title="RAC Over Seas Cover: ">
+                           <strong>Vehicle Hire</strong>                       </div>
+                        <div class="car-rental-additional-charge-price-summary car-rental-additional-charge-price-summary-2">
+                           <div class="pull-right normal-font" style="white-space: nowrap;">£76.67</div> <!--[amount_for_display] => £76.67 FOUND in  
+                           [base_daily_price] => Array
+                                                        (
+                                                            [currency] => gbp
+                                                            [currency_icon] => £
+                                                            [amount] => 76.67
+                                                            [usd_amount] => 95.56
+                                                            [amount_for_display] => £76.67
+                                                        )-->
+
+                        </div>
+                     </li>
+                 
+                  </ul>
+               </div>
+			   <div class="col-md-12" style="padding: 0;">
+					<div class="control-label workflow-summary-title">
                      Protections & Coverages                  </div>
                   <ul class="list-without-styles">
 						  
                      <li>
                         <div class="limit-text-by-wrapping-it" title=" RAC Over Seas Cover:" data-original-title="RAC Over Seas Cover: ">
-                           Fully Comp Insurance                        </div>
+                           <strong>Fully Comp Insurance    </strong>                    </div>
                         <div class="car-rental-additional-charge-price-summary car-rental-additional-charge-price-summary-2">
-                           <div class="pull-right normal-font" style="white-space: nowrap;">£69.00</div>
+                           <div class="pull-right normal-font" style="white-space: nowrap;">£69.00</div> <!-- [amount_for_display] => £46.00 FOUND in
+                           [total_price] => Array
+                                        (
+                                            [currency] => gbp
+                                            [currency_icon] => £
+                                            [amount] => 46.00
+                                            [usd_amount] => 57.34
+                                            [amount_for_display] => £46.00
+                                        )
+                                        -->
+
                         </div>
                      </li>
                  
@@ -156,12 +148,12 @@
 			<div class="row car-rental-miscellaneous-charges">
                   <div class="col-md-12" style="padding: 0;">
                       <div class="control-label workflow-summary-title">
-                            Miscellaneous
+                            Other
                          </div>
                   <ul class="list-without-styles">
 				  
 		    <li>
-                        <div class="limit-text-by-wrapping-it" title="" data-original-title="VAT (20%)">VAT (20%)</div>
+                        <div class="limit-text-by-wrapping-it" title="" data-original-title="VAT (20%)"><strong>VAT (20%)</strong></div>
                           <div class="car-rental-summary-miscellaneous-charges-1">
                                <div class="pull-right normal-font" style="white-space: nowrap;">£23.50</div>  
 							</div>
