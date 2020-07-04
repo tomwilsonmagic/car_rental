@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+ <link rel = "stylesheet"
+   type = "text/css"
+   href = "style.css" />
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Multi Steps</title>
+	<!-- Mobile Specific Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">	
+    <link rel="stylesheet" href="http://cubiclecodes.com/car_rental/assets/css/style.css"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="http://cubiclecodes.com/car_rental/assets/js/main.js"></script>
+</head>
+<body><section class="form-main">
+   <div class="multispets">
+      <ul class="navsteps">
+	     <li ><a href="javascript:void(0);">Step 1</a></li>
+	     <li ><a href="javascript:void(0);">Step 2</a></li>
+	     <li><a href="javascript:void(0);">Step 3</a></li>
+	     <li ><a href="javascript:void(0);">Step 4</a></li>
+	     <li><a href="javascript:void(0);">Step 5</a></li>
+	     <li class="active"><a href="javascript:void(0);">Step 6</a></li>
+	     <li ><a href="javascript:void(0);">Step 7</a></li>
+	  </ul>
+	<div class="form-steps step6" style="display:block;"> 
+			
+		<div class="vichle-listing"> 
+			   <div class="inner-listing">
+				   <div class="img-wrapper">
+				      <img src="https://files-europe.caagcrm.com/tenants/d5159d97-28df-47d3-9539-6f755d30efd9/files/0f9355ce-c35d-4832-b894-32e263b137b6/redirect/1592332256/timestamp?size=1000">
+				   </div>
+				   <div class="info-wrapper">
+				     <h2>Luxury Car </h2>
+										
+					£39.17				  </div>
+				  <div class="button-wrapper">
+				     <div class="car-choice">
+				       <a href="http://cubiclecodes.com/car_rental/reservations/step2" class="rentbutton" style="padding: 8px 0;max-width: 100px;font-size: 13px;"><i class="fa fa-pencil" aria-hidden="true"></i> Change</a> 
+				     </div>
+				  </div>
+				</div>
+			 
+		</div>
+	
+		<div class="coverag-listing">
+			<div class="cl-left">
+					<h3> Protections & Coverages</h3>
+			</div>
+					
+				<p class="text-left01"> Fully Comp Insurance</p>
+				<div class="cl-right">
+					<span style="font-size: 14px;"> £69.00 / daily </span>
+				 </div>
+				 
+		</div>
+		
+	
+<div class="col-md-3 col-sm-3 col-xs-12 car-rental-summary-container">
+   <div class="">
+      <div class="box box-open" id="summary">
+         <div class="box-summary">
+            <h2 class="car-rental-reservation-summary-title">
+               Summary                        
+            </h2>
+         </div>
+         <div class="box-fields">
+            <div class="row car-rental-overview">
+               <div class="col-md-12 car-rental-reservation-summary-status" style="padding: 0;">
+                  <div class="control-label"><span class="label label-default">Quote</span></div>
+               </div>
+               <div class="col-md-12 car-rental-summary-pickup" style="padding: 0;">
+                  <div class="control-label workflow-summary-title">
+                     Pickup
+                     &nbsp;
+                     <a class="modal-open car-rental-summary-edit-pick-up-date" href="#" data-url="https://tsdhire.hqrentals.eu/public/car-rental/reservations/datetimes">
+                     <i class="fas fa-pencil-alt" title=""></i>                                </a>
+                  </div>
+                <div class="left-sidetext"> Sat, Jul 04, 2020 @ 08:30<br>
+                </div>
+                  <span class="car-rental-summary-pick-up-location">
+                  Location:
+                 Thornbury
+                  </span>
+               </div>
+               <div class="col-md-12 car-rental-summary-return" style="padding: 5px 0 0;">
+                  <div class="control-label">
+                     Return
+                     &nbsp;
+                     <a class="modal-open car-rental-summary-edit-return-date" href="#" data-url="https://tsdhire.hqrentals.eu/public/car-rental/reservations/datetimes">
+                     <i class="fas fa-pencil-alt" title=""></i>                                    </a>
+                  </div>
+                   Mon, Jul 06, 2020 @ 17:30<br>
+                  <br>
+                  <span class="car-rental-summary-return-location">
+                  Location:
+                  Thornbury
+                  </span>
+                  <br>
+               </div>
+            </div>
+			
+            <div class="row car-rental-label-for-website">
+               <div class="col-md-12" style="padding: 0;">
+                  <div class="control-label workflow-summary-title car-rental-summary-vehicle-class">
+                    Luxury Car                  </div>
+               </div>
+            </div>
+            <div class="row car-rental-price-overview">
+               <div class="col-md-12" style="padding: 0;">
+                  <div class="row car-rental-price">
+                     <div class="col-xs-5 no-padding-right car-rental-summary-price-label">
+                        3x Days:
+                     </div>
+                     <div class="col-xs-3 no-padding text-right car-rental-summary-price-unit">
+                       £39.17                   
+                                 
+                     </div>
+                     <div class="col-xs-4 no-padding-left text-right car-rental-summary-price-total">
+                       £117.50         
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <hr style="margin-top: 3px;margin-bottom: 3px;">
+            <div class="row car-rental-base-price-overview">
+               <div class="col-md-12" style="padding: 0;">
+                  <div class="row car-rental-base-price">
+                     <div class="col-md-3 col-md-offset-9">
+                        <div class="pull-right normal-font" style="white-space: nowrap;"> £117.50   </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row car-rental-additional-charges car-rental-additional-charges-category-1">
+           
+			   <div class="col-md-12" style="padding: 0;">
+					<div class="control-label workflow-summary-title">
+                     Protections & Coverages                  </div>
+                  <ul class="list-without-styles">
+						  
+                     <li>
+                        <div class="limit-text-by-wrapping-it" title=" RAC Over Seas Cover:" data-original-title="RAC Over Seas Cover: ">
+                           Fully Comp Insurance                        </div>
+                        <div class="car-rental-additional-charge-price-summary car-rental-additional-charge-price-summary-2">
+                           <div class="pull-right normal-font" style="white-space: nowrap;">£69.00</div>
+                        </div>
+                     </li>
+                 
+                  </ul>
+               </div>
+	            </div>
+			
+			<div class="row car-rental-miscellaneous-charges">
+                  <div class="col-md-12" style="padding: 0;">
+                      <div class="control-label workflow-summary-title">
+                            Miscellaneous
+                         </div>
+                  <ul class="list-without-styles">
+				  
+		    <li>
+                        <div class="limit-text-by-wrapping-it" title="" data-original-title="VAT (20%)">VAT (20%)</div>
+                          <div class="car-rental-summary-miscellaneous-charges-1">
+                               <div class="pull-right normal-font" style="white-space: nowrap;">£23.50</div>  
+							</div>
+                    </li>
+					
+                   </ul>
+                 </div>
+             </div> 
+
+            <div class="row car-rental-total">
+               <div class="col-md-12" style="padding: 0;">
+                  <div class="control-label workflow-summary-title">
+                     Total                                
+                  </div>
+                  <h2 class="car-rental-summary-total-price">
+                     <div class="pull-right normal-font" style="white-space: nowrap;">£ 210.00</div>
+                  </h2>
+               </div>
+            </div>
+			
+         </div>
+      </div>
+      <br>
+      <br>
+   </div>
+</div>
+			<form  method="post" name="step6Form" id="step6Form" action="http://cubiclecodes.com/car_rental/reservations/step7" >
+				<input type="checkbox" name="iagree" value="1" id="iagree"><span class="agree-label">"I have read and understood the above policy"*</span>
+					<span class="errorclass agree-error" >   </span>	
+				<button type="submit" class="sb-btn" id="sbt7d">Submit</button>
+					
+			</form>
+			
+			</div>
+	  </div>
+	</section>
+	 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+
+ <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ 
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+	
+<style>
+#loader {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.75) url(http://cubiclecodes.com/car_rental/images/loading2.gif) no-repeat center center;
+  z-index: 10000;
+}
+</style>
+<div id="loader"></div>
+<script>
+	
+	$(document).ready(function(){  
+		
+		var	move_house	=	$('input[name="move_house"]:checked').val();
+			
+			if( move_house == 'Yes' ){
+				
+				$('.newaddressfield').css('display', 'block') ;
+					
+			}else{
+				
+				$('.newaddressfield').css('display', 'none') ;
+			}
+			
+		var	own_insurance	=	$('input[name="own_insurance"]:checked').val();
+		
+			if( own_insurance == 'Yes' ){
+				
+				$('.national_insurance').css('display', 'block') ;
+					
+			}else{
+				
+				$('.national_insurance').css('display', 'none') ;
+			}
+		
+	}) ;
+
+	
+	
+	$( document ).on('click', '.move_house', function(){
+			
+			var	move_house	=	$('input[name="move_house"]:checked').val();
+
+			if( move_house == 'Yes' ){
+				
+				$('.newaddressfield').css('display', 'block') ;
+					
+			}else{
+				
+				$('.newaddressfield').css('display', 'none') ;
+			}
+	})		
+	
+	$( document ).on('click', '.own_insurance', function(){
+			
+			
+			var	own_insurance	=	$('input[name="own_insurance"]:checked').val();
+
+			if( own_insurance == 'Yes' ){
+				
+				$('.national_insurance').css('display', 'block') ;
+					
+			}else{
+				
+				$('.national_insurance').css('display', 'none') ;
+			}
+	})		
+	
+	
+	
+	$( document ).on('click', '#charge-5', function(){
+		
+		var isChecked = $(this).prop("checked") ? 1 : 0 ;
+		
+		
+		 if(!isChecked){
+			  // alert('they must use their own insurance?') ;
+			  swal({
+			  title: "Are you sure?",
+			  text: "You must use your own insurance?",
+			  icon: "warning",
+			  buttons: true,
+			  dangerMode: true,
+			})
+			.then((willDelete) => {
+				
+				if (willDelete) {
+				swal('You must use your own insurance?');
+				
+				} else {
+					
+					$( "#charge-5" ).prop( "checked", true );
+
+					swal("Great", {
+					  icon: "success",
+					});
+				}
+			  
+			});
+
+		 }
+	})
+	
+
+	$(document).on('click', '#sbtd1', function(event){
+			event.preventDefault() ;
+		var spinner = $('#loader');
+		isValidate	=	formValidateStep1() ;
+		
+		if( isValidate ){
+			
+			spinner.show();
+			$("form#step1Form").submit();
+		}
+		
+	})
+	
+	
+ 
+ 
+ function formValidateStep1(){
+	  
+	  var isChecked = $('#agree').prop("checked") ? 1 : 0 ;
+	  
+
+		 
+	  if( $("#pick_up_date").val() == ''){
+		  $('.pick_up_date-error').text('Pick-up date is required') ;
+		  return false ;
+	  }else{
+		 $('.pick_up_date-error').text('') ;
+	  }
+	  
+	  
+	  if( $("#return_date").val() == ''){
+		  $('.return_date-error').text('Return-up date is required') ;
+		  return false ;
+	  }
+	  else{
+		  $('.return_date-error').text('') ;
+	  }
+	   
+	   
+	  if( $("#pick_up_time").val() == ''){
+		  $('.pick_up_time-error').text('Pick-up time is required') ;
+		  return false ;
+	  }else{
+		   $('.pick_up_time-error').text('') ;
+	  }
+	  
+	  
+	  if( $("#return_time").val() == ''){
+		  $('.return_time-error').text('Return-up time is required') ;
+		  return false ;
+	  }else{
+		   $('.return_time-error').text('') ;
+	  }
+	  
+	  if(isChecked == 0){
+		 $('.agree-error').text('Is required') ;
+		
+			return false ;
+		}else if(isChecked == 1){
+			   // $('#sbtd1').removeAttr('disabled');
+			 $('.agree-error').text('') ;
+			
+		}
+	  
+	  return true ;
+	  
+  }
+  
+  
+  
+
+
+
+$(function() {
+    $( "#pick_up_date" ).datepicker({
+	  
+	  beforeShowDay: function(date) {
+		var day = date.getDay();
+		return [day != 0,''];
+	  },
+      showOn: "button",
+	  dateFormat:  'yy-mm-dd',
+      buttonImage: "http://jqueryui.com/resources/demos/datepicker/images/calendar.gif",
+      buttonImageOnly: true,
+	              minDate: 0,
+            onSelect: function (date) {
+                var dt2 = $('#return_date');
+                var startDate = $(this).datepicker('getDate');
+                var minDate = $(this).datepicker('getDate');
+                dt2.datepicker('setDate', minDate);
+                startDate.setDate(startDate.getDate() + 30);
+                //sets dt2 maxDate to the last day of 30 days window
+                dt2.datepicker('option', 'maxDate', startDate);
+                dt2.datepicker('option', 'minDate', minDate);
+                $(this).datepicker('option', 'minDate', minDate);
+            }
+			
+    });
+   $( "#return_date" ).datepicker({
+	  
+	  beforeShowDay: function(date) {
+		var day = date.getDay();
+		return [day != 0,''];
+	   },
+      showOn: "button",
+	  dateFormat: 'yy-mm-dd',
+	  buttonImage: "http://jqueryui.com/resources/demos/datepicker/images/calendar.gif",
+      buttonImageOnly: true
+    });  
+
+	$("#birthdate").datepicker({ 
+		changeYear: true, 
+		// yearRange : 'yy-50:yy+1',
+		yearRange: "-80:+0", // this is the option you're looking for
+		dateFormat: 'yy-mm-dd',
+		showOn: "both", 
+		buttonImage: "http://jqueryui.com/resources/demos/datepicker/images/calendar.gif",
+		buttonImageOnly: true 
+	});
+	
+	$("#dr_licno_issuedate").datepicker({ 
+		changeYear: true, 
+		// yearRange : 'yy-50:yy+1',
+		yearRange: "-50:+0", // this is the option you're looking for
+		dateFormat: 'yy-mm-dd',
+		showOn: "both", 
+		buttonImage: "http://jqueryui.com/resources/demos/datepicker/images/calendar.gif",
+		buttonImageOnly: true 
+	});
+
+
+	$("#dr_licno_expiredate").datepicker({ 
+		changeYear: true, 
+		// yearRange : 'yy-50:yy+1',
+		yearRange: "1980:2025",
+		// yearRange: "-50:+0", // this is the option you're looking for
+		dateFormat: 'yy-mm-dd',
+		showOn: "both", 
+		buttonImage: "http://jqueryui.com/resources/demos/datepicker/images/calendar.gif",
+		buttonImageOnly: true 
+	});
+
+	
+  });
+  </script>
+
+  <script>
+	
+	$(document).on('click', '#sbt7d', function(event){
+			event.preventDefault() ;
+	 var isChecked = $('#iagree').prop("checked") ? 1 : 0 ;
+			  
+	  if(isChecked == 0){
+		 $('.agree-error').text('Is required') ;
+			return false ;
+		}else if(isChecked == 1){
+			 
+			 $('.agree-error').text('') ;
+			 $("form#step6Form").submit();
+		}
+
+		
+	})
+	
+	$(document).on('click', '#sbt5', function(event){
+			event.preventDefault() ;
+		var spinner = $('#loader');
+		isValidate	=	formValidateStep4() ;
+		
+		if( isValidate ){
+			spinner.show();
+			$("form#customerForm").submit();
+		}	
+	})
+	
+	function formValidateStep4(){
+		
+		
+		
+
+	   if( $("#first_name").val() == ''){
+		  $('.first_name-error').text('First name is required') ;
+		
+		var scrollDiv = document.getElementById("first_name").offsetTop;
+		window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+  
+			return false ;
+		}else{
+		   $('.first_name-error').text('') ;
+		}
+		
+		if( $("#last_name").val() == ''){
+		  $('.last_name-error').text('Last name is required') 
+		  
+		  var scrollDiv = document.getElementById("last_name").offsetTop;
+		window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+		
+		  return false ;
+		}else{
+		   $('.last_name-error').text('') ;
+		}
+		
+		if( $("#email").val() == ''){
+		  $('.email-error').text('Email is required') ;
+		  
+		    var scrollDiv = document.getElementById("email").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+		
+		  return false ;
+		}else{
+		   $('.email-error').text('') ;
+		}
+		
+		if( $("#phone").val() == ''){
+		  $('.phone-error').text('Phone is required') ;
+		  
+		      var scrollDiv = document.getElementById("phone").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.phone-error').text('') ;
+		}
+		
+		if( $("#address").val() == ''){
+		  $('.address-error').text('address is required') ;
+		  
+		        var scrollDiv = document.getElementById("address").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.address-error').text('') ;
+		}
+		
+		if( $("#street2").val() == ''){
+		  $('.street2-error').text('Street-2 is required') ;
+		  
+			var scrollDiv = document.getElementById("street2").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.street2-error').text('') ;
+		}
+		
+		if( $("#street3").val() == ''){
+		  $('.street3-error').text('Street-3 is required') ;
+		  
+		  		var scrollDiv = document.getElementById("street3").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.street3-error').text('') ;
+		}
+		
+		if( $("#city").val() == ''){
+		  $('.city-error').text('City is required') ;
+		  
+		  	var scrollDiv = document.getElementById("city").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.city-error').text('') ;
+		}	
+
+		if( $("#postal_code").val() == ''){
+		  $('.postal_code-error').text('Postal code is required') ;
+		  
+		    	var scrollDiv = document.getElementById("postal_code").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.postal_code-error').text('') ;
+		}
+
+		if( $("#birthdate").val() == ''){
+		  $('.birthdate-error').text('Birthdate is required') ;
+		  
+		   	var scrollDiv = document.getElementById("birthdate").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.birthdate-error').text('') ;
+		}	
+
+		if( $("#occupation").val() == ''){
+		  $('.occupation-error').text('Occupation is required') ;
+		  
+		  		   	var scrollDiv = document.getElementById("occupation").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.occupation-error').text('') ;
+		}	
+
+		if( $("#second_form_file").val() == ''){
+		  $('.second_form_file-error').text('Second form Id is required') ;
+		  
+		    	var scrollDiv = document.getElementById("second_form_file").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.second_form_file-error').text('') ;
+		}	
+
+		if( $("#dr_licno").val() == ''){
+		  $('.dr_licno-error').text('Driving license number is required') ;
+		  
+		  	var scrollDiv = document.getElementById("dr_licno").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.dr_licno-error').text('') ;
+		}
+		
+		if( $("#dr_licno_file").val() == ''){
+		  $('.dr_licno_file-error').text('Driving license file is required') ;
+		  
+		    	var scrollDiv = document.getElementById("dr_licno_file").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.dr_licno_file-error').text('') ;
+		}	
+
+		if( $("#dr_licno_issuedate").val() == ''){
+		  $('.dr_licno_issuedate-error').text('Driving license issuedate is required') ;
+		  
+		  		    	var scrollDiv = document.getElementById("dr_licno_issuedate").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.dr_licno_issuedate-error').text('') ;
+		}	
+
+		if( $("#dr_licno_expiredate").val() == ''){
+		  $('.dr_licno_expiredate-error').text('Driving license expiredate is required') ;
+		  
+		  	    	var scrollDiv = document.getElementById("dr_licno_expiredate").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.dr_licno_expiredate-error').text('') ;
+		}
+
+var	own_insurance	=	$('input[name="own_insurance"]:checked').val();
+		
+	if(  own_insurance != 'Yes' && own_insurance != 'No' ){
+		  $('.own_insurance-error').text('Own insurance option is required') ;
+		 
+		  	var scrollDiv = document.getElementsByClassName("own_insurance").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.own_insurance-error').text('') ;
+	
+	}	
+		
+		
+	if( $("#insurance_policy_file").val() == '' &&  own_insurance == 'Yes'){
+		  $('.insurance_policy_file-error').text('Insurance policy is required') ;
+		  
+		  	var scrollDiv = document.getElementById("insurance_policy_file").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.insurance_policy_file-error').text('') ;
+		}	
+
+	var	move_house	=	$('input[name="move_house"]:checked').val();
+
+	
+		if(  move_house != 'Yes' && move_house != 'No'){
+		  $('.move_house-error').text('Own insurance option is required') ;
+		  
+		  	var scrollDiv = document.getElementsByClassName("move_house").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.move_house-error').text('') ;
+	
+	}
+	
+		if( $("#new_address").val() == '' &&  move_house == 'Yes'){
+		  $('.new_address-error').text('New address is required') ;
+		  
+		  		  	var scrollDiv = document.getElementById("new_address").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.new_address-error').text('') ;
+		}	
+
+		if( $("#driving_offence").val() == ''){
+		  $('.driving_offence-error').text('Driving offence field is required') ;
+		  
+		  		  
+		  		  	var scrollDiv = document.getElementById("driving_offence").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.driving_offence-error').text('') ;
+		}	
+
+		if( $("#driving_accidents").val() == ''){
+		  $('.driving_accidents-error').text('Driving accidents field is required') ;
+		  
+		  		  	var scrollDiv = document.getElementById("driving_accidents").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.driving_accidents-error').text('') ;
+		}	
+
+		if( $("#bill_statement").val() == ''){
+		  $('.bill_statement-error').text('Bill statement is required') ;
+		  
+		   	var scrollDiv = document.getElementById("bill_statement").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.bill_statement-error').text('') ;
+		}	
+
+		if( $("#disablities").val() == ''){
+		  $('.disablities-error').text('Disablities field is required') ;
+		  
+		    	var scrollDiv = document.getElementById("disablities").offsetTop;
+			window.scrollTo({ top: scrollDiv, behavior: 'smooth'});
+			
+		  return false ;
+		}else{
+		   $('.disablities-error').text('') ;
+		}	
+
+		
+		return true ;
+	}
+  </script>
+  
+  <div class="contact-modal">
+    <div class="modal-wrapper">
+	<i class="fa fa-times" aria-hidden="true"></i>
+	    <form class="">
+				  <h3> Send Email </h3>
+				  <p>The selected vehicle class is currently not available. Please leave your email address so we can contact you about alternatives. </p>
+				  <div class="form-group">
+					 <label> Email Address </label>
+					  <input class=" form-control" no_name_field="" id="email_address" name="email_address" type="text" value="">
+				  </div>
+			 
+		
+		<div class="btn-row">
+		<a >Cancel</a>
+		    <input type="submit" class="sbt-modal" value=" Send Email">
+		</div>
+	    </form>
+		
+	</div>
+  
+  </div>
+  
+  
+  
+  
+  <script>
+$(document).ready(function(){
+  $(".rentbutton.cn-button").click(function(){
+    $(".contact-modal").addClass('Modal-show');
+  });
+  
+   $(".fa.fa-times").click(function(){
+    $(".contact-modal").removeClass('Modal-show');
+  });
+  
+   $(".modal-wrapper .btn-row a").click(function(){
+    $(".contact-modal").removeClass('Modal-show');
+  });
+});
+</script>
+</body>
+</html>
